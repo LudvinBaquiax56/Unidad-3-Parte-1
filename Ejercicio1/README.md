@@ -5,7 +5,11 @@
 
 Resolución de 20 algorimtos de programacion para la Unidad 3 Parte 1
 
+### Ejecucion en Terminal
+
 ![Terminal](Ej1.png)
+
+### Diagrama de Flujo
 
 ![Diagrama de flujo](1.png)
 
